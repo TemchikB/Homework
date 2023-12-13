@@ -1,0 +1,14 @@
+D:\С# stream\hOMEWORK\obj\Debug\net7.0\hOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+D:\С# stream\hOMEWORK\obj\Debug\net7.0\hOMEWORK.AssemblyInfoInputs.cache
+D:\С# stream\hOMEWORK\obj\Debug\net7.0\hOMEWORK.AssemblyInfo.cs
+D:\С# stream\hOMEWORK\obj\Debug\net7.0\hOMEWORK.csproj.CoreCompileInputs.cache
+D:\С# stream\hOMEWORK\bin\Debug\net7.0\hOMEWORK.exe
+D:\С# stream\hOMEWORK\bin\Debug\net7.0\hOMEWORK.deps.json
+D:\С# stream\hOMEWORK\bin\Debug\net7.0\hOMEWORK.runtimeconfig.json
+D:\С# stream\hOMEWORK\bin\Debug\net7.0\hOMEWORK.dll
+D:\С# stream\hOMEWORK\bin\Debug\net7.0\hOMEWORK.pdb
+D:\С# stream\hOMEWORK\obj\Debug\net7.0\hOMEWORK.dll
+D:\С# stream\hOMEWORK\obj\Debug\net7.0\refint\hOMEWORK.dll
+D:\С# stream\hOMEWORK\obj\Debug\net7.0\hOMEWORK.pdb
+D:\С# stream\hOMEWORK\obj\Debug\net7.0\hOMEWORK.genruntimeconfig.cache
+D:\С# stream\hOMEWORK\obj\Debug\net7.0\ref\hOMEWORK.dll
