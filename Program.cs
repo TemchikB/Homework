@@ -7,6 +7,7 @@ for (int i =0; i< inarray.Length;i++){
     inarray[i] = Console.ReadLine();
 }
 }
+Console.WriteLine("Результат:");
 Changearray();
 void Changearray(){
     for(int i=0; i< inarray.Length;i++){
